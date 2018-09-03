@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OnePlus 5T Walls</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="my_own_title">Hi, We need your help!</string>
+    <string name="my_own_message">Hope that you are liking our App. Please Rate Us so that we can improve the App further, it won\'t take more than a minute. Thanks!</string>
+    <string name="my_own_rate">SURE!</string>
+    <string name="my_own_thanks">NEVER</string>
+    <string name="my_own_cancel">LATER</string>
+</resources>

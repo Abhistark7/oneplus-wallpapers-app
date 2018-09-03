@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/action_set"
+        android:icon="@drawable/ic_set"
+        android:title="Set Wallpaper"
+        />
+    <item
+        android:id="@+id/action_back"
+        android:icon="@drawable/ic_back"
+        android:title="Go back"
+        />
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/ic_download"
+        android:title="Save Wallpaper"
+        />
+</menu>
